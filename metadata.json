@@ -1,0 +1,7 @@
+{
+  "name": "Sistema de Receta Médica - Dr. Modesto Morales",
+  "description": "Una aplicación avanzada para la gestión de consultas médicas, generación de recetas con códigos de barras y sincronización con Google Sheets y Calendar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
