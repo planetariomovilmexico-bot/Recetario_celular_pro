@@ -18,4 +18,5 @@ export const INITIAL_PATIENT: any = {
   height: '',
   imc: '',
   imc_class: '',
+  oxi: '',
 };

@@ -8,11 +8,12 @@ export interface Patient {
   ta_dia: string;
   fc: string;
   temp: string;
-  glucose: string;
+  glucose: string; // Campo vital
   weight: string;
   height: string;
   imc: string;
   imc_class: string;
+  oxi: string;
 }
 
 export interface Medication {
